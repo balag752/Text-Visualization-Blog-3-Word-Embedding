@@ -2,12 +2,7 @@
 
 
 
-Date: **07.05. (Due: 05.05.)**
-
 Name: **Balaji Subramani**
-
-Session: **[Dimensionality-Reduction](https://textvis.repke.eu/index.html)**
-
 Code: on **[GitHub](https://github.com/balag752/Text-Visualization-Blog-3-Word-Embedding)**
 
 # 
@@ -34,7 +29,7 @@ It is really interesting to see the evolvement of **cheap** word through out the
 
 We also below depicted **fare** word similarity. Each year it has different similarities. But in whole mostly different sight seeing places and tourist places are related with fare word.
 
-![yearwise fare word](https://i.loli.net/2019/05/05/5cce07e00c437.jpg)![yearwise fare word](https://i.loli.net/2019/05/05/5cce07e00c437.jpg)
+![Yearwise Fare word](https://i.loli.net/2019/05/05/5cce1033e9e9c.jpg)
 
 *Interative way of seeing the Report :* **[Tableau Public Yearwise Report](https://public.tableau.com/profile/balag752#!/vizhome/Yearwisewordsynonyms/Yearwisesynonyms)**
 
