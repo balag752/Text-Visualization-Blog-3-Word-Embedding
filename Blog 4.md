@@ -26,15 +26,11 @@ It is really interesting to see the evolvement of **cheap** word through out the
 
 *Interative way of seeing the Report :* **[Tableau Public Yearwise Report](https://public.tableau.com/profile/balag752#!/vizhome/Yearwisewordsynonyms/Yearwisesynonyms)**
 
-
-
 We also below depicted **fare** word similarity. Each year it has different similarities. But in whole mostly different sight seeing places and tourist places are related with fare word.
 
-![yearwise fare word](https://i.loli.net/2019/05/05/5cce07e00c437.jpg)
+![Yearwise Fare word](https://i.loli.net/2019/05/05/5cce1033e9e9c.jpg)
 
 *Interative way of seeing the Report :* **[Tableau Public Yearwise Report](https://public.tableau.com/profile/balag752#!/vizhome/Yearwisewordsynonyms/Yearwisesynonyms)**
-
-
 
 Above all results are modeled using CBOW.
 
@@ -52,13 +48,9 @@ Above graph is again modeled in CBOW. But below graph is modeled in Skip gram wi
 
 *Interative way of seeing the Report :* **[Tableau Public Country wise SG Report](https://public.tableau.com/profile/balag752#!/vizhome/countrywordusageSg/CountrywisewordusageSkipgram)**
 
-
-
 Both algorithm has different result set. But intuitively Skip gram has more reasonable results as well as **CBOW** has connected with inaccurate words like numbers and stop words. 
 
 Also, when training the model Skip gram took more time than CBOW. **Italian foods** are more connected with **food** in New york and London. At the same time, **vegtarian** is connected with food in New delhi. Furthermore, **Flight** is connected with **waited** word in new delhi. 
-
-
 
 ## Low & Top rated Hotel reviews
 
@@ -68,10 +60,4 @@ We also tried to compare the top and low rated hotel reviews. Here green color m
 
 *Interative way of seeing the Report :* **[Tableau Public Low & Top Rated Hotel Report](https://public.tableau.com/profile/balag752#!/vizhome/TopLowRatingwordmeanings/Ratings?publish=yes)**
 
-
-
 In both top & low rated reviews, **food** is connected with *out*. Notably, **wait** is related with **flight** in low rated reviews and **good** and **excellent** are connected in top rated reviews.
-
-
-
-
